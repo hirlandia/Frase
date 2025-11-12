@@ -1,1 +1,2 @@
-print ("3 - A avaliação somativa de BSMs é realizada ao final do programa para avaliar a compreensão geral e a aplicação dos BSMs adquiridos pelas pessoas participantes.")
+# Adicionando Nova Frase de Complemento
+print("*A 3 Frase - Tem a avaliação somativa de BSMs que é realizada ao final do programa para avaliar a compreensão geral e a aplicação dos BSMs adquiridos pelas pessoas participantes.")
