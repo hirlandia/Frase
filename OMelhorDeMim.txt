@@ -1,2 +1,1 @@
-Cada passo que dou hoje é um compromisso com a versão mais forte, sábia e verdadeira de mim mesma que quero ser amanhã.
-- Hirlandia
+print ("3 - A avaliação somativa de BSMs é realizada ao final do programa para avaliar a compreensão geral e a aplicação dos BSMs adquiridos pelas pessoas participantes.)
